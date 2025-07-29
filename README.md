@@ -14,8 +14,7 @@ The framework supports:
 
 ---
 
-## Project Structure
-
+## Project Structure :
 ```
 restassured-api-framework/
 ├── src/
@@ -37,9 +36,7 @@ restassured-api-framework/
 ├── testng.xml
 └── README.md
 ```
-
 ---
-
 ## How to Run Tests
 
 Run with default (QA) environment:
