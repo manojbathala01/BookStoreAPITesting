@@ -71,5 +71,4 @@ These are auto-injected by `AllureEnvironmentWriter.java`.
 ---
 
 ## Author
-
 Bathala Manoj
