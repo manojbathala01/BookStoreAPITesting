@@ -11,7 +11,6 @@ The framework supports:
 - Environment-based configuration (`dev`, `qa`, `prod`)
 - Positive and negative test separation
 - Service-based logic segregation
-
 ---
 
 ## Project Structure :
@@ -49,11 +48,8 @@ Specify environment:
 mvn clean test -Denv=dev
 mvn clean test -Denv=prod
 ```
-
 ---
-
 ## Generate Allure Report
-
 After running the tests:
 ```bash
 allure serve allure-results
@@ -72,7 +68,6 @@ The report includes details such as:
 - Build version
 
 These are auto-injected by `AllureEnvironmentWriter.java`.
-
 ---
 
 ## Author
